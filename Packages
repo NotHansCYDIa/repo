@@ -19,7 +19,7 @@ Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.powen.permasignerios.0.2.5.deb
-Size: 854
+Size: 2,524,340
 MD5sum: 1efb9bb5bde61d8116ff8d7ac54553a2
 Description: test
 Name: Test
