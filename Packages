@@ -7,22 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: **onModuled is a tweak that was made for fun** and was created by NotHansCYDIa.
+Description: **onModuled is a tweak that was made for fun in SwiftUI** and was created by NotHansCYDIa.
 Name: onModuled
 Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.nothanscydia.test
-Version: 1.0.0
-Section: Applications
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.powen.permasignerios.0.2.5.deb
-Size: 2,524,340
-MD5sum: 1efb9bb5bde61d8116ff8d7ac54553a2
-Description: test
-Name: Test
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
+DepictionImage: onModuled.png
