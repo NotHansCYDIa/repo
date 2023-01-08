@@ -22,7 +22,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.nothanscydia.testtweak_0.0.1-1+debug_iphoneos-arm.deb
 Size: 104966
 MD5sum: 48d3363b36ff1a9ca9280aa7763a56fa
-Description: Test Tweak
+Description: The Test Tweak
 Name: Testing Tweak
 Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
