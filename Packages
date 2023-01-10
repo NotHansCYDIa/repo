@@ -13,16 +13,16 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 
-Package: com.nothanscydia.testtweak
+Package: com.nothanscydia.libesc
 Version: 1.0.0
-Section: Test
+Section: Library
 Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nothanscydia.libesc_0.0.1-2+debug_iphoneos-arm.deb
+Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
 Size: 104966
-MD5sum: a549063b23204fd8fbd09653ac3b19f0
-Description: SettingsTest
-Name: SettingsTest
+MD5sum: 130d643de235915a6b6894f6aca44f54
+Description: Adds lib and libesc to zsh
+Name: libesc
 Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
