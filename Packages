@@ -1,28 +1,48 @@
-Package: com.nothanscydia.onmoduled
-Version: 1.0.0
-Section: Tweaks
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.nothanscydia.libesc
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
+Size: 224788
+MD5sum: 130d643de235915a6b6894f6aca44f54
+SHA1: 8db5ba4cdb8d6c0f905291b433461336d13a4255
+SHA256: a792d13307de962089586e9be298f925354d1dd3522c986e21845410baf9719f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: NotHansCYDIa
+Name: libesc
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: **onModuled is a tweak that was made for fun in SwiftUI** and was created by NotHansCYDIa.
-Name: onModuled
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
 
-
-Package: com.nothanscydia.libesc
-Version: 1.0.0
-Section: Library
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
 Architecture: iphoneos-arm
-Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
-Size: 104966
-MD5sum: 130d643de235915a6b6894f6aca44f54
-Description: Adds lib and libesc to zsh
-Name: libesc
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
