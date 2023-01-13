@@ -1,28 +1,32 @@
-Package: com.nothanscydia.onmoduled
-Version: 1.0.0
-Section: Tweaks
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: **onModuled is a tweak that was made for fun in SwiftUI** and was created by NotHansCYDIa.
-Name: onModuled
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-
 Package: com.nothanscydia.testtweak
-Version: 1.0.0
-Section: Tweaks
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.nothanscydia.testtweak_0.0.1-1+debug_iphoneos-arm.deb
 Size: 104966
 MD5sum: 48d3363b36ff1a9ca9280aa7763a56fa
-Description: Test Tweak
-Name: Testing Tweak
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
+SHA1: b2045483049c0a4bb349e34b2c0f8f6fcb6fd2c0
+SHA256: a68bdfc9fdcdb55ce30d91b52ea97397c7717b5ff8bcc2f71ce50c11b993d935
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: NotHansCYDIa
+Name: TestTweak
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
