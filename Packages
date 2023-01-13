@@ -15,6 +15,22 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
+Package: com.nothanscydia.oncontrol
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.nothanscydia.oncontrol_0.0.1-1+debug_iphoneos-arm.deb
+Size: 175640
+MD5sum: ae18fd24a0feb0b30bf825153b6f911b
+SHA1: fe83dd15d9a396c64169dadd51d958b950ea63ed
+SHA256: 3444ec84292cb77be32253d2faba43b2ab0b1fc0024c2ec2e7437c89d9d2d80d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: NotHansCYDIa
+Name: onControl
+
 Package: com.nothanscydia.onmoduled
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
