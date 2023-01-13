@@ -15,6 +15,22 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
+Package: com.nothanscydia.libesc
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
+Installed-Size: 132
+Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
+Size: 138244
+MD5sum: c9e69bc7bedba22c9e9cef6326cebb67
+SHA1: 50c062230bddf5626abdb96fe0e85f04a253db52
+SHA256: 55f48deb5ce5736de620a0abc8ae4704d1c6e39af6015f13dbb6af4f1d21e075
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: NotHansCYDIa <hanscydiastudios@gmail.com>
+Name: libesc
+
 Package: com.nothanscydia.oncontrol
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
