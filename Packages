@@ -15,6 +15,21 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
+Package: com.nothanscydia.onmoduled
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa
+Installed-Size: 228
+Filename: ./debs/com.nothanscydia.onmoduled_0.0.1-1+debug_iphoneos-arm.deb
+Size: 246758
+MD5sum: e46fc075ca1718c348c133dd81ad1079
+SHA1: 97f166de87b4d9c5edaae2b641eb4b65086a5c73
+SHA256: 9ae839c591e305dbd970fbe7fd0c2e27421c5a053ce1928df57df2c22caad304
+Section: Utilities
+Description: An awesome application!
+Author: NotHansCYDIa
+Name: onModuled
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
@@ -30,19 +45,4 @@ Description: This is a sample new package. Firmware should be greater than 7.0
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 Name: New Package
-
-Package: com.yourcompany.test
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa
-Installed-Size: 232
-Filename: ./debs/com.yourcompany.test_0.0.1-1+debug_iphoneos-arm.deb
-Size: 248802
-MD5sum: 58e367ad50746b157d0ac65db13d0c40
-SHA1: 75ccb79c5365008fecf1aebf6dce62c1e3a14df6
-SHA256: 428c5c11f71bd942c0f9b368a8dcc940ec9519dcbd385170f8890aba5ec4f58a
-Section: Utilities
-Description: An awesome application!
-Author: NotHansCYDIa
-Name: test
 
