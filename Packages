@@ -15,36 +15,21 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
-Package: com.nothanscydia.oncontrol
+Package: com.nothanscydia.redebugged
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa
-Installed-Size: 176
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.nothanscydia.oncontrol_0.0.1-1+debug_iphoneos-arm.deb
-Size: 175640
-MD5sum: ae18fd24a0feb0b30bf825153b6f911b
-SHA1: fe83dd15d9a396c64169dadd51d958b950ea63ed
-SHA256: 3444ec84292cb77be32253d2faba43b2ab0b1fc0024c2ec2e7437c89d9d2d80d
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nothanscydia.redebugged_0.0.1-1+debug_iphoneos-arm.deb
+Size: 221188
+MD5sum: 61961ac349ba6daf3f939cd59c38f201
+SHA1: 42f14c51b65336725ca7bd4685a8be27fecf0535
+SHA256: aab4cd75050d93c84cc399bfef62cce91472ec6419e6a616cfb16dc7cf291ad5
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: NotHansCYDIa
-Name: onControl
-
-Package: com.nothanscydia.onmoduled
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa
-Installed-Size: 228
-Filename: ./debs/com.nothanscydia.onmoduled_0.0.1-1+debug_iphoneos-arm.deb
-Size: 246758
-MD5sum: e46fc075ca1718c348c133dd81ad1079
-SHA1: 97f166de87b4d9c5edaae2b641eb4b65086a5c73
-SHA256: 9ae839c591e305dbd970fbe7fd0c2e27421c5a053ce1928df57df2c22caad304
-Section: Utilities
-Description: An awesome application!
-Author: NotHansCYDIa
-Name: onModuled
+Name: reDebugged
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
