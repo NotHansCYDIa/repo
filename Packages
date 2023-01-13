@@ -16,16 +16,16 @@ Bundle: testtweak
 Name: Test Tweak
 
 Package: com.nothanscydia.oncontrol
-Version: 1.0.0-4+debug
+Version: 1.0.0-5+debug
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.nothanscydia.oncontrol_1.0.0-4+debug_iphoneos-arm.deb
-Size: 224786
-MD5sum: f9cc078d72cb54651422eddb903b6660
-SHA1: 4267b3e621f983e53ee4e9be5e2cbcd0f86c1666
-SHA256: 3d2cc8ac9ff64ee85afc3222697451f9aebbd92def062ac26a45456121891a1a
+Filename: ./debs/com.nothanscydia.oncontrol_1.0.0-5+debug_iphoneos-arm.deb
+Size: 224788
+MD5sum: 9b2de9535c4ada543f7dbefe46e043d8
+SHA1: 7affc8b7ba948de19cfffbf7dda89f90895bb99f
+SHA256: 0023b7614c62f1714ab50e6aa204958093e163de7b936f5d9a56a95c8763d958
 Section: Tweaks
 Description: Adds libesc manager
 Author: NotHansCYDIa
