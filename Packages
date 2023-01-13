@@ -16,16 +16,16 @@ Bundle: testtweak
 Name: Test Tweak
 
 Package: com.nothanscydia.oncontrol
-Version: 1.0.0-2+debug
+Version: 1.0.0-3+debug
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.nothanscydia.oncontrol_1.0.0-2+debug_iphoneos-arm.deb
-Size: 175146
-MD5sum: 934f83b1ccb27141cf8b751b9f3f1438
-SHA1: 730690f7c30ac822dd92e6975bdc4847751a3359
-SHA256: 35ae20e218c51b6ee86d7955703b993e641991b7f0873398f2dec328e8f843e4
+Filename: ./debs/com.nothanscydia.oncontrol_1.0.0-3+debug_iphoneos-arm.deb
+Size: 175144
+MD5sum: 782a66a0675525c1678a68a75d3e28bc
+SHA1: 2e0df7ab057a4e2b9c7e03fcabdd9f58923e61d0
+SHA256: ad86c0b06071bbcd53d6b3e7d56816f74d0a45f4e4fd9d7a2bba02da06946d43
 Section: Configuration
 Description: Literally something..
 Author: NotHansCYDIa <hanscydiastudios@gmail.com>
