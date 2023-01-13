@@ -15,38 +15,6 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
-Package: com.nothanscydia.libesc
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Installed-Size: 132
-Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
-Size: 138244
-MD5sum: c9e69bc7bedba22c9e9cef6326cebb67
-SHA1: 50c062230bddf5626abdb96fe0e85f04a253db52
-SHA256: 55f48deb5ce5736de620a0abc8ae4704d1c6e39af6015f13dbb6af4f1d21e075
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
-Name: libesc
-
-Package: com.nothanscydia.libmain
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa
-Installed-Size: 196
-Filename: ./debs/com.nothanscydia.libmain_0.0.1-2+debug_iphoneos-arm.deb
-Size: 203762
-MD5sum: c7116e27a09285d3f7eefa2aa7c85c2a
-SHA1: a08d0ea77813056c638e6d1f964279f722d3c559
-SHA256: 8ccc813b93627dd06a0330591109c78e8400a05dfd4eb5b5e8e8d5f42bacfda7
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: NotHansCYDIa
-Name: libmain
-
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
@@ -62,4 +30,19 @@ Description: This is a sample new package. Firmware should be greater than 7.0
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 Name: New Package
+
+Package: com.yourcompany.test
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa
+Installed-Size: 232
+Filename: ./debs/com.yourcompany.test_0.0.1-1+debug_iphoneos-arm.deb
+Size: 248802
+MD5sum: 58e367ad50746b157d0ac65db13d0c40
+SHA1: 75ccb79c5365008fecf1aebf6dce62c1e3a14df6
+SHA256: 428c5c11f71bd942c0f9b368a8dcc940ec9519dcbd385170f8890aba5ec4f58a
+Section: Utilities
+Description: An awesome application!
+Author: NotHansCYDIa
+Name: test
 
