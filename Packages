@@ -15,6 +15,23 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
+Package: com.nothanscydia.onmoduled
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
+Installed-Size: 224
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.nothanscydia.onmoduled_1.0.0-1+debug_iphoneos-arm.deb
+Size: 227346
+MD5sum: f979a87b659d28a63812903bc23c6444
+SHA1: 4eb404b6c6725db025a87607825954ade90e29a7
+SHA256: 8be9cb225b187157a4cc4d074406fc79e74c710721cbd64caab0bd269b8771b1
+Section: Tweaks
+Description: onControl is a wip tweak
+Author: NotHansCYDIa <hanscydiastudios@gmail.com>
+Bundle: onmoduled
+Name: onModuled
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
