@@ -1,18 +1,19 @@
-Package: com.nothanscydia.libesc
-Version: 0.0.1-1+debug
+Package: com.example.testtweak
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa
-Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
-Size: 224788
-MD5sum: 130d643de235915a6b6894f6aca44f54
-SHA1: 8db5ba4cdb8d6c0f905291b433461336d13a4255
-SHA256: a792d13307de962089586e9be298f925354d1dd3522c986e21845410baf9719f
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: NotHansCYDIa
-Name: libesc
+Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
+Installed-Size: 652
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.example.testtweak_1.0.0-1+debug_iphoneos-arm.deb
+Size: 659472
+MD5sum: 609fb9c59077048168168f6ab953a1ab
+SHA1: 76162e9c4c569455da8ddf97f0b4d42ca3ec3af8
+SHA256: 00f76e45c0683c18ab42a811d23d799e95f691bdd930f33be220d6cd9dec8875
+Section: System
+Description: My Test Tweak lol
+Author: NotHansCYDIa <hanscydiastudios@gmail.com>
+Bundle: testtweak
+Name: Test Tweak
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
