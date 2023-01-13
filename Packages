@@ -16,16 +16,16 @@ Bundle: testtweak
 Name: Test Tweak
 
 Package: com.nothanscydia.oncontrol
-Version: 1.0.0-1+debug
+Version: 1.0.0-3+debug
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
 Installed-Size: 224
 Depends: firmware (>= 8.0)
-Filename: ./debs/com.nothanscydia.oncontrol_1.0.0-1+debug_iphoneos-arm.deb
-Size: 227342
-MD5sum: 5cc15d1a3624573825111d308f4ec591
-SHA1: fbcb34ed0f0627e433a2b99ef601b408fb20deca
-SHA256: a092242d3782e25de4b8b28fe9855b7b7404419db1c168843c51246e19312f18
+Filename: ./debs/com.nothanscydia.oncontrol_1.0.0-3+debug_iphoneos-arm.deb
+Size: 228364
+MD5sum: c6e7d7a19a2cdd7aef07d3321b8eb2ba
+SHA1: d39b40fc79f72f95ef645ee41dd734b640030807
+SHA256: 534b4015b25690d19f6e988780da488dad6d30d5f72d4bf13a9f96855b1044fb
 Section: Tweaks
 Description: onControl is a wip tweak
 Author: NotHansCYDIa <hanscydiastudios@gmail.com>
