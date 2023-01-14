@@ -16,15 +16,15 @@ Bundle: testtweak
 Name: Test Tweak
 
 Package: com.nothanscydia.libesc
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa
 Installed-Size: 132
-Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.nothanscydia.libesc_0.0.1-2+debug_iphoneos-arm.deb
 Size: 138226
-MD5sum: 8a1fcb3bd3ef4a4dafb6ff76f611b936
-SHA1: 518748d6928f276db1ab433a7de942a39dbcd183
-SHA256: b509dda149236ce2128da14c07f2e83bcc78a6fab0c52e58976da55ebf318e74
+MD5sum: de591c81ca8b82c4c631f3189d3cc0f4
+SHA1: 360c4d6938fc16ab8a71670e482005719b41cad2
+SHA256: f7a03d6b7da0773bf2b03e19314a5b1e282a701b9d4ab2f3215df4dd83a56f7b
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
