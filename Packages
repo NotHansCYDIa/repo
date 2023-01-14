@@ -15,21 +15,21 @@ Author: NotHansCYDIa <hanscydiastudios@gmail.com>
 Bundle: testtweak
 Name: Test Tweak
 
-Package: com.nothanscydia.redebugged
+Package: com.nothanscydia.libesc
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa
-Installed-Size: 216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nothanscydia.redebugged_0.0.1-1+debug_iphoneos-arm.deb
-Size: 221188
-MD5sum: 61961ac349ba6daf3f939cd59c38f201
-SHA1: 42f14c51b65336725ca7bd4685a8be27fecf0535
-SHA256: aab4cd75050d93c84cc399bfef62cce91472ec6419e6a616cfb16dc7cf291ad5
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Installed-Size: 132
+Filename: ./debs/com.nothanscydia.libesc_0.0.1-1+debug_iphoneos-arm.deb
+Size: 138226
+MD5sum: 8a1fcb3bd3ef4a4dafb6ff76f611b936
+SHA1: 518748d6928f276db1ab433a7de942a39dbcd183
+SHA256: b509dda149236ce2128da14c07f2e83bcc78a6fab0c52e58976da55ebf318e74
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
 Author: NotHansCYDIa
-Name: reDebugged
+Name: libesc
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
