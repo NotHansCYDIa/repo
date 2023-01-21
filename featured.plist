@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>libesc</string>
+			<key>version</key>
+			<string>0.0.1-8+debug</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>New Package</string>
+			<key>version</key>
+			<string>2.0.0-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
