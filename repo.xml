@@ -1,4 +1,18 @@
 <repo>
+    <featured>
+        <package>
+          <id>com.nothanscydia.libesc</id>
+          <name>libesc</name>
+          <version>0.0.1-8+debug</version>
+          <description>A featured package.</description>
+        </package>
+        <package>
+          <id>com.supermamon.newpackage</id>
+          <name>New Package</name>
+          <version>2.0.0-1</version>
+          <description>Another featured package.</description>
+        </package>
+      </featured>
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
