@@ -31,6 +31,23 @@ Tag: role::hacker
 Author: NotHansCYDIa
 Name: libesc
 
+Package: com.nothanscydia.object8
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: NotHansCYDIa
+Installed-Size: 168
+Depends: org.swift.libswift (>= 5.0)
+Filename: ./debs/com.nothanscydia.object8_0.0.1-1+debug_iphoneos-arm.deb
+Size: 173070
+MD5sum: 073e5f52dd1a4fb4fc0b796e5144f63c
+SHA1: 0ac05996f003a5d08ec7a55b116b4337ab84c17b
+SHA256: ac21917dceaecccae1b7ea8d15b3ea1f65c3193b7360e069a5910a4006e19336
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: NotHansCYDIa
+Name: object8
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Architecture: iphoneos-arm
