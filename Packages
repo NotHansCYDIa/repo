@@ -5,15 +5,17 @@ Maintainer: NotHansCYDIa
 Installed-Size: 280
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.nothanscydia.inputreturn_1.0.0_iphoneos-arm.deb
-Size: 4570
-MD5sum: f720cc4ce998d1e6f19650899f012b9a
-SHA1: 127bc50bc2e9177ad92049a45643a1064b2696dc
-SHA256: 97a8abb7c51c96aa9d2725be42e95fa78e87bbad6446895ab377fc233f3f9177
+Size: 4612
+MD5sum: 471ac374f31bafdd1b358b8786780e49
+SHA1: 0541b83562f27d582b4b00d25430f52dda0c821c
+SHA256: 77a85ed504a76daa4cb9169df04234622567eed5d5fe875b5b2d227c939359bf
 Section: Tweaks
 Description: A tweak made for fun..
 Author: NotHansCYDIa
+Depiction: https://nothanscydia.github.io/repo/depictions/?p=com.nothanscydia.inputreturn
 Icon: https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true
 Name: 1nputReturn
+Sileodepiction: https://nothanscydia.github.io/repo/depictions/?p=com.nothanscydia.inputreturn
 
 Package: com.nothanscydia.libesc
 Version: 0.0.1-8+debug
