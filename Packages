@@ -1,19 +1,19 @@
-Package: com.example.testtweak
-Version: 1.0.0-1+debug
+Package: com.nothanscydia.inputreturn
+Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa <hanscydiastudios@gmail.com>
-Installed-Size: 652
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.example.testtweak_1.0.0-1+debug_iphoneos-arm.deb
-Size: 659472
-MD5sum: 609fb9c59077048168168f6ab953a1ab
-SHA1: 76162e9c4c569455da8ddf97f0b4d42ca3ec3af8
-SHA256: 00f76e45c0683c18ab42a811d23d799e95f691bdd930f33be220d6cd9dec8875
-Section: System
-Description: My Test Tweak lol
-Author: NotHansCYDIa <hanscydiastudios@gmail.com>
-Bundle: testtweak
-Name: Test Tweak
+Maintainer: NotHansCYDIa
+Installed-Size: 280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nothanscydia.inputreturn_1.0.0_iphoneos-arm.deb
+Size: 4570
+MD5sum: f720cc4ce998d1e6f19650899f012b9a
+SHA1: 127bc50bc2e9177ad92049a45643a1064b2696dc
+SHA256: 97a8abb7c51c96aa9d2725be42e95fa78e87bbad6446895ab377fc233f3f9177
+Section: Tweaks
+Description: A tweak made for fun..
+Author: NotHansCYDIa
+Icon: https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true
+Name: 1nputReturn
 
 Package: com.nothanscydia.libesc
 Version: 0.0.1-8+debug

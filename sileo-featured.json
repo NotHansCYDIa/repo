@@ -1,0 +1,13 @@
+{
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {
+         "url":"https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/lnputreturnbanner2.001.png?raw=true",
+         "title":"1nputReturn",
+         "package":"com.nothanscydia.inputreturn",
+         "hideShadow":false
+      },
+   ]
+}
