@@ -1,52 +1,18 @@
-Package: com.nothanscydia.inputreturn
+Package: com.nothanscydia.verboseboot
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: NotHansCYDIa
-Installed-Size: 280
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nothanscydia.inputreturn_1.0.0_iphoneos-arm.deb
-Size: 4612
-MD5sum: 471ac374f31bafdd1b358b8786780e49
-SHA1: 0541b83562f27d582b4b00d25430f52dda0c821c
-SHA256: 77a85ed504a76daa4cb9169df04234622567eed5d5fe875b5b2d227c939359bf
-Section: Tweaks
-Description: A tweak made for fun..
-Author: NotHansCYDIa
-Depiction: https://nothanscydia.github.io/repo/depictions/?p=com.nothanscydia.inputreturn
-Icon: https://github.com/NotHansCYDIa/NotHansCYDIa/blob/main/Icons/Untitled.001.png?raw=true
-Name: 1nputReturn
-Sileodepiction: https://nothanscydia.github.io/repo/depictions/?p=com.nothanscydia.inputreturn
-
-Package: com.nothanscydia.libesc
-Version: 0.0.1-8+debug
-Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa
-Installed-Size: 132
-Filename: ./debs/com.nothanscydia.libesc_0.0.1-8+debug_iphoneos-arm.deb
-Size: 138226
-MD5sum: 96c7572bb339c04b7e3677b70b4139f2
-SHA1: 1f454cee578bb5f13152fa330c8e7037627cd96a
-SHA256: ae9d201579c9b5687f0133f45202e52e2ba32816bcad5f3e7eff5f860282e07f
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: NotHansCYDIa
-Name: libesc
-
-Package: com.nothanscydia.object8
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: NotHansCYDIa
-Installed-Size: 168
+Installed-Size: 4660
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debs/com.nothanscydia.object8_0.0.1-1+debug_iphoneos-arm.deb
-Size: 173070
-MD5sum: 073e5f52dd1a4fb4fc0b796e5144f63c
-SHA1: 0ac05996f003a5d08ec7a55b116b4337ab84c17b
-SHA256: ac21917dceaecccae1b7ea8d15b3ea1f65c3193b7360e069a5910a4006e19336
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
+Filename: ./debs/com.nothanscydia.verboseboot_1.0.0_iphoneos-arm.deb
+Size: 258034
+MD5sum: 5a30e0ba03cf89267a3e6b0793fdcc4b
+SHA1: 21e8ba719d454a9acd2aae814cf83d10c2fd102c
+SHA256: 505cf99c125b49c628e66a741d2cd00088824f23cc3b800d7a8c97bd245623b7
+Section: Utilities
+Description: a Verbose Simulation app.
 Author: NotHansCYDIa
-Name: object8
+Icon: https://github.com/NotHansCYDIa/NotHansCYDIa/raw/main/Icons/l.001.png
+Name: Verb0seBoot
+Sileodepiction: https://raw.githubusercontent.com/NotHansCYDIa/NotHansCYDIa/main/Files/Verb0seBootDepiction
 
